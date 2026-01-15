@@ -1,0 +1,342 @@
+[
+  {
+    "_id": {
+      "$oid": "ac56e1d3d88ed3e30edc5aad"
+    },
+    "name": "Urban Explorer Backpack",
+    "category": "Backpack",
+    "price": "2200",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/50edbdf03f694ba5275b916d_rdzmdmTdU8",
+    "description": "Durable water-resistant backpack for city commuting.",
+    "createdAt": {
+      "$date": "2025-12-29T10:22:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T10:22:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "81ceaf38280a4905baf8ea48"
+    },
+    "name": "Executive Leather Briefcase",
+    "category": "Office Bag",
+    "price": "4500",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/6c0cadac2aad8cf0e4a7faab_rdzmdmTdU8",
+    "description": "Handcrafted Italian leather briefcase for executives.",
+    "createdAt": {
+      "$date": "2025-12-29T10:37:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T10:37:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "761dfeafb8f851a7229a49d5"
+    },
+    "name": "Weekend Getaway Duffle",
+    "category": "Travel Bag",
+    "price": "3000",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/e8c769e9a0bc7f38a7aa545d_rdzmdmTdU8",
+    "description": "Spacious canvas duffle bag perfectly sized for weekend trips.",
+    "createdAt": {
+      "$date": "2025-12-29T10:52:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T10:52:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "a036bfbb6fec8c1b8dabcccb"
+    },
+    "name": "Slim Tech Messenger",
+    "category": "Messenger Bag",
+    "price": "1800",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/0c8d87f33df55b1f9b8e67ca_rdzmdmTdU8",
+    "description": "Lightweight messenger bag with dedicated tablet pocket.",
+    "createdAt": {
+      "$date": "2025-12-29T11:07:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T11:07:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "b1f138f19a2dc41ed760b8fc"
+    },
+    "name": "Vintage Canvas Satchel",
+    "category": "Crossbody",
+    "price": "1200",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/d4ee9f15ac9ebc221e1156b9_rdzmdmTdU8",
+    "description": "Retro style canvas satchel with magnetic closures.",
+    "createdAt": {
+      "$date": "2025-12-29T11:22:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T11:22:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "8aaded14fb91676472f4da06"
+    },
+    "name": "Professional Rolling Case",
+    "category": "Office Bag",
+    "price": "5500",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/74ba7058801ba01cda1affd0_rdzmdmTdU8",
+    "description": "Wheeled laptop case approved for airline carry-on.",
+    "createdAt": {
+      "$date": "2025-12-29T11:37:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T11:37:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "ebe332531f21aee5da62ca8e"
+    },
+    "name": "Minimalist Laptop Sleeve",
+    "category": "Accessories",
+    "price": "800",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/52d704a6eeada4ba18bdfdaf_rdzmdmTdU8",
+    "description": "Felt and leather sleeve for 13-inch laptops.",
+    "createdAt": {
+      "$date": "2025-12-29T11:52:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T11:52:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "f28defc123b42e849c03ba61"
+    },
+    "name": "Heavy Duty Tactical Bag",
+    "category": "Backpack",
+    "price": "3500",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/d1faa81a9c97e1ebfbb9a50c_rdzmdmTdU8",
+    "description": "Military grade nylon bag with multiple attachment points.",
+    "createdAt": {
+      "$date": "2025-12-29T12:07:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T12:07:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "aebbf15c3ebd3edb58f3db66"
+    },
+    "name": "Designer Tote Bag",
+    "category": "Handbag",
+    "price": "2800",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/bdeb6df7674fc924d39021c6_rdzmdmTdU8",
+    "description": "Chic leather tote suitable for work and casual outings.",
+    "createdAt": {
+      "$date": "2025-12-29T12:22:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T12:22:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "37465ecd72bf0a7b2a9e4068"
+    },
+    "name": "Convertible Hybrid Bag",
+    "category": "Office Bag",
+    "price": "2500",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/c1b02b1ed7a3ba5f5a5e8f9d_rdzmdmTdU8",
+    "description": "Transforms from a briefcase to a backpack in seconds.",
+    "createdAt": {
+      "$date": "2025-12-29T12:37:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T12:37:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "eafcc74bf0e28a87b377e00b"
+    },
+    "name": "Smart Anti-Theft Backpack",
+    "category": "Backpack",
+    "price": "2100",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/fe459ccde6314d2a5070ea7d_rdzmdmTdU8",
+    "description": "Features hidden zippers and integrated USB charging port.",
+    "createdAt": {
+      "$date": "2025-12-29T12:52:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T12:52:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "bfc629f8acb9bfdfa8724478"
+    },
+    "name": "Classic Doctor's Bag",
+    "category": "Vintage",
+    "price": "4200",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/bfd7aa0fb11ca9c34ffcedb9_rdzmdmTdU8",
+    "description": "Traditional hinged frame opening with structured leather body.",
+    "createdAt": {
+      "$date": "2025-12-29T13:07:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T13:07:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "dabac13bf56b6fdeaa587bb9"
+    },
+    "name": "Compact Sling Bag",
+    "category": "Crossbody",
+    "price": "950",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/bce65615b4fad724c04c66d2_rdzmdmTdU8",
+    "description": "Small sling for essentials like phone, wallet, and keys.",
+    "createdAt": {
+      "$date": "2025-12-29T13:22:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T13:22:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "38d1d25115c7d7e7df7b0d61"
+    },
+    "name": "Premium Gym Duffle",
+    "category": "Sports",
+    "price": "1600",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/7baedd2fe032575d1a25e5b0_rdzmdmTdU8",
+    "description": "Ventilated shoe compartment and wet pocket for gym gear.",
+    "createdAt": {
+      "$date": "2025-12-29T13:37:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T13:37:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "12e8c5eb84433a25b2dd2fc5"
+    },
+    "name": "Hardshell Laptop Case",
+    "category": "Office Bag",
+    "price": "3200",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/a3c2efb3ed82a94f464cfb59_rdzmdmTdU8",
+    "description": "Impact resistant outer shell to protect sensitive electronics.",
+    "createdAt": {
+      "$date": "2025-12-29T13:52:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T13:52:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "e5641d58bda735e73e2f10e0"
+    },
+    "name": "Bohemian Fringe Purse",
+    "category": "Handbag",
+    "price": "1400",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/fde23a8ccacdb1485ee0284d_rdzmdmTdU8",
+    "description": "Soft suede leather with decorative fringe details.",
+    "createdAt": {
+      "$date": "2025-12-29T14:07:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T14:07:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5383d0d43aaae2938bf0d8af"
+    },
+    "name": "Business Travel Set",
+    "category": "Travel Bag",
+    "price": "6000",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/c94ee07723a6e39a9eed31b6_rdzmdmTdU8",
+    "description": "Matching trolley and laptop bag set for frequent flyers.",
+    "createdAt": {
+      "$date": "2025-12-29T14:22:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T14:22:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "de8d4ceff02eed0fd1efd8e6"
+    },
+    "name": "Eco-Friendly Cork Bag",
+    "category": "Sustainable",
+    "price": "1900",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/5cbe04e18f38c708bcbc68eb_rdzmdmTdU8",
+    "description": "Made from sustainable cork material, lightweight and water resistant.",
+    "createdAt": {
+      "$date": "2025-12-29T14:37:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T14:37:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5ffccffe0aeccfeebbeb7a67"
+    },
+    "name": "Photographer's Camera Bag",
+    "category": "Specialty",
+    "price": "3800",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/2125ddb65baa6aacbaf1ecbe_rdzmdmTdU8",
+    "description": "Customizable padded dividers for camera bodies and lenses.",
+    "createdAt": {
+      "$date": "2025-12-29T14:52:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T14:52:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "c9edf49d5fbca3dee14297f6"
+    },
+    "name": "Oxford Student Satchel",
+    "category": "Office Bag",
+    "price": "1300",
+    "image": "https://ik.imagekit.io/xxo3wlp01y/product_images/f4cbebaccbd662ab01ddaf6f_rdzmdmTdU8",
+    "description": "Classic design with front buckles and adjustable shoulder strap.",
+    "createdAt": {
+      "$date": "2025-12-29T15:07:55Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-29T15:07:55Z"
+    },
+    "__v": 0
+  }
+]
