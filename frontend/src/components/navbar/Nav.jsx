@@ -61,9 +61,9 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="/products"
+            href="/product"
             className={`text-sm font-medium transition-colors hover:text-primary ${
-              isActive("/products")
+              isActive("/product")
                 ? "text-primary"
                 : "text-muted-foreground"
             }`}
@@ -157,7 +157,7 @@ export default function Navbar() {
                 </SheetClose>
 
                 <SheetClose asChild>
-                  <Link href="/products" className="px-2 py-2">Products</Link>
+                  <Link href="/product" className="px-2 py-2">Products</Link>
                 </SheetClose>
 
                 {isAuthenticated && (

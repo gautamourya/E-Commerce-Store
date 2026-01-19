@@ -1,7 +1,7 @@
 "use client";
 
 import { useForm } from "react-hook-form";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import * as z from "zod";
 import { useDispatch } from "react-redux";
 import { nanoid } from "nanoid";
@@ -66,7 +66,10 @@ const formData = new FormData();
 
   console.log("Product Data:", data);
 
-
+    useEffect(()=>{
+      console.log("helo hello")
+    },[])
+    
     dispatch(asyncCreateProduct(formData));        
 
     setTimeout(() => {
