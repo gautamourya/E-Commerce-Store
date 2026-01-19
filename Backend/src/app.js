@@ -1,6 +1,5 @@
 const express = require('express');
-const userAuth = require('./routes/user.route')
-const productRoute = require('./routes/product.route')
+const route = require('./routes/index.route');
 const cors = require('cors')
 const cookieParser = require('cookie-parser');
 const app = express();
@@ -42,6 +41,6 @@ app.use(cors(corsOptions));
 
 
 app.use(cookieParser());
-app.use('/', productRoute)
-app.use('/', userAuth)
+app.use("/api",route)
+
 module.exports = app;

@@ -29,7 +29,7 @@ const userSchema = new mongoose.Schema(
     email: {
       type: String,
       required: true,
-      unique: true,
+      
     },
     password: {
       type: String,
@@ -39,15 +39,11 @@ const userSchema = new mongoose.Schema(
       type: Number,
       required: true,
     },
-    isAdmin: {
-      type: Boolean,
-      default: false,
+    role: {
+      type: String,
+      default: "buyer",
     },
-       acceptTerms: {
-      type: Boolean,
-      default: false,
-    },
-    // cart: [cartItemSchema], // Array of cart items
+
   },
   { timestamps: true }
 );
