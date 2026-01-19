@@ -9,12 +9,21 @@ export default function ProtectedRoute({ children }) {
   const router = useRouter();
 
   useEffect(() => {
-    if (loading) return;
-    if (!user) router.push("/login");
+    if (loading) return; // Wait for auth check
+    if (!user) {
+      router.push("/login"); // Redirect if not authenticated
+    }
   }, [user, loading, router]);
 
-  if (loading) return <p>Checking login...</p>;
-  if (!user) return null; // redirect in progress
+  // Show loading while checking auth
+  if (loading) return (
+    <div className="min-h-screen flex items-center justify-center">
+      <p className="text-lg text-gray-600">Verifying access...</p>
+    </div>
+  );
+
+  // Show content only if user is authenticated
+  if (!user) return null;
 
   return children;
 }  
